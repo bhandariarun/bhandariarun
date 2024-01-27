@@ -17,7 +17,7 @@ Hi there 👋
 
 - 📄 Know about my experiences [https://arunbhandari.info.np/](https://arunbhandari.info.np/)
 
-- ⚡ Fun fact **I'm funny**
+- ⚡ Fun fact **I'm try to be funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
