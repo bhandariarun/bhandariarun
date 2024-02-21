@@ -64,6 +64,7 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
  <tr>
 
 <td align="center" width="25%">
+ <span><b><center>C Programming</center></b></span><br/> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> </a>
 </td>
