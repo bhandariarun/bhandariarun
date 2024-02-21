@@ -68,6 +68,12 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> </a>
 </td>
+
+<td align="center" width="25%">
+ <span><b><center>C++ Programming</center></b></span><br/> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/> </a>
+</td>
  
    
 <td align="center" width="25%">
