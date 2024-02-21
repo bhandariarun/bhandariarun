@@ -175,7 +175,14 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </td>
 
+<td align="center" width="25%">
+<span><b><center>Postgresql</center></b></span> <br/>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"/> </a>
+</td>
+
 </tr>
+
 <tr>
 
 <td align="center" width="25%">
