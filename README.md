@@ -146,6 +146,11 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
 </td>
 
+<td align="center" width="25%">
+<span><b><center>Sqlite</center></b></span> <br/>
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/> </a>
+</td>
 </tr>
 
 <tr>
