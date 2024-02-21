@@ -86,6 +86,12 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <img height=75px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
+<td align="center" width="25%">
+ <span><b><center>C# Programming</center></b></span><br/> 
+<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/> </a>
+</td>
+
    
 <td align="center" width="30%">
 <span><b><center>OpenCV</center></b></span><br/>  
