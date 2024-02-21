@@ -95,12 +95,6 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 </tr>
 
 <tr>
-<td align="center" width="25%">
-<span><b><center>HTML5</center></b></span><br/> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> </a>
-</td>
-
    
 <td align="center" width="30%">
 <span><b><center>OpenCV</center></b></span><br/>  
@@ -116,6 +110,13 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <span><b><center>Notebook</center></b></span><br/>  
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
 </td>
+
+<td align="center" width="25%">
+<span><b><center>HTML5</center></b></span><br/> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/> </a>
+</td>
+
 </tr>
 
 <tr> 
