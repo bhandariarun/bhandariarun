@@ -15,7 +15,7 @@ Hi there 👋
 
 - 📫 How to reach me **abbhan053@gmail.com**
 
-- 📄 Know about my experiences [https://arunbhandari.info.np/](https://arunbhandari.info.np/)
+- 📄 Portfolio Know about me:  [https://arunbhandari.info.np/](https://arunbhandari.info.np/)
 
 - ⚡ Fun fact **I'm try to be funny**
 
