@@ -209,15 +209,6 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
     
 </tr>
 
-<tr>
-
-<td align="center" width="25%">
-<span><b><center>Hugging Face</center></b></span> <br/>
-<img height=75px src="https://editor.analyticsvidhya.com/uploads/6350167a2c0590affeba7880ebeb46a115d863972d8ba.png"/>
-</td>
-    
-</tr>
-
 </tbody>
 </table>
 <br> <br>
