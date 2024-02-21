@@ -62,6 +62,12 @@ Sunday       15 commits     █████░░░░░░░░░░░░�
 <table>
 <tbody align="center">
  <tr>
+
+<td align="center" width="25%">
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/> </a>
+</td>
+ 
    
 <td align="center" width="25%">
 <span><b><center>Python</center></b></span><br/> 
