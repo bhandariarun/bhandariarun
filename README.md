@@ -1,7 +1,4 @@
 Hey Github Fam 👋
-<h3 align="center">I'm a Computer Engineering Student</h3>
-<h1 align="center">Hi 👋, I'm Arun Bhandari</h1>
-
 <p align="center">
 <a href="https://github.com/bhandariarun">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+👋+Arun+Bhandari;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
