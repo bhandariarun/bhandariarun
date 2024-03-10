@@ -4,7 +4,7 @@ Hey Github Fam 👋
 
 <p align="center">
 <a href="https://github.com/bhandariarun">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&<h1 align='center'>lines=Hi!+I'm+👋+Arun+Bhandari;I'm+a+Computer+Engineering+Student</h3>" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+👋+Arun+Bhandari;I'm+a+Computer+Engineering+Student" alt="Typing SVG" />
 </a>
 </p>
 <br/>
