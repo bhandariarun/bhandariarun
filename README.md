@@ -11,7 +11,9 @@ Hey Github Fam 👋
 
 - 🌱 I’m currently learning and growup with: **Python,Django,Machine Learning and Artifical Intelligence**
 
-- 🔭 I’m currently working on [Circuit Nepal](https://circuitnepal.com.np/)
+-  🔭 I'm currently training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) of Data Science and Machine Learning
+
+- 🔭 I worked at [Circuit Nepal](https://circuitnepal.com.np/)
 
 - 👯 I’m looking to collaborate on [noonemovies](https://noonemovies.xyz/)
 
