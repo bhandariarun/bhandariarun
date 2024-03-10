@@ -15,7 +15,7 @@ Hey Github Fam 👋
 
 - 🔭 I worked at [Circuit Nepal](https://circuitnepal.com.np/)
 
-- 👯 I’m looking to collaborate on [noonemovies](https://noonemovies.xyz/)
+- 👯 I built the website: [noonemovies](https://noonemovies.xyz/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhandariarun](https://github.com/bhandariarun)
 
