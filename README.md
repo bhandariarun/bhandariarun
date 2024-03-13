@@ -4,14 +4,12 @@ Hey Github Fam 👋
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+Arun+Bhandari;I'm+a+Computer+Engineering+Student;Enthusiastic in:+Python+%7C+Machine Learning+%7C+Data Science" alt="Typing SVG" />
 </a>
 </p>
-<br/>
-
-
+<!-- <br/>
 <p align="center">
 <a href="https://github.com/bhandariarun">
     <img src="https://github-stats-alpha.vercel.app/api?username=bhandariarun&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-</p>
+</p> -->
 
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
