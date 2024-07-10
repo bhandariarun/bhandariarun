@@ -13,6 +13,13 @@ Hey Github Fam 👋
 </a>
 </p>
 
+<p align="center">
+    <a href="https://arunbhandari.info.np/"><img src="https://github-stats-alpha.vercel.app/api?username=bhandariarun&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="bhandariarun" /></a> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhandariarun/count.svg" />
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
