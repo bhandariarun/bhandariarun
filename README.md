@@ -14,7 +14,7 @@ Hey Github Fam 👋
 </p>
 
 <p align="center">
-    <a href="https://arunbhandari.info.np/"><img src="https://github-stats-alpha.vercel.app/api?username=bhandariarun&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="bhandariarun" /></a> </p>
+    <a href="https://arunbhandari.info.np/"></a> </p>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bhandariarun/count.svg" />
