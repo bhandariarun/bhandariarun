@@ -25,7 +25,9 @@ Hey Github Fam 👋
 
 - 🌱 I’m currently learning and growup with: **Python,Django,Machine Learning and Artifical Intelligence**
 
--  🔭 I'm currently training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) of Data Science and Machine Learning
+- 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer
+
+-  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning
 
 - 🔭 I worked at [Circuit Nepal](https://circuitnepal.com.np/)
 
