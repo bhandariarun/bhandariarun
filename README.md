@@ -26,6 +26,8 @@ Hey Github Fam 👋
 - 🌱 I’m currently learning and growup with: **Python,Backend,Machine Learning and Artifical Intelligence**
 
 - 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer
+  
+- 🌱 I did my internship in Zakipoint Health (https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company
 
 -  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning
 
