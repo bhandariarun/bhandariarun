@@ -31,7 +31,7 @@ Hey Github Fam 👋
 
 -  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning
 
-- 🔭 I worked at [Circuit Nepal](https://circuitnepal.com.np/)
+- 🔭 I have been already worked at [Circuit Nepal](https://circuitnepal.com.np/)
 
 - 👯 I built the website: [noonemovies](https://noonemovies.xyz/)
 
