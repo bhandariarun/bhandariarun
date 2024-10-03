@@ -4,7 +4,7 @@ Hey Github Fam 👋
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+Arun+Bhandari;I'm+a+Computer+Engineering+Student;I'm+try+to+cover-up+all+the+Python+related+stuff;Enthusiastic in:+Python+%7C+Machine Learning+%7C+Data Science" alt="Typing SVG" />
 </a>
 </p>
-<br/>
+<br>
 <br/>
 
 
