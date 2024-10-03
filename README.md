@@ -6,9 +6,6 @@ Hey Github Fam 👋
 </p>
 <br>
 <br>
-
-
-
 <p align="center">
 <a href="https://github.com/bhandariarun">
     <img src="https://github-stats-alpha.vercel.app/api?username=bhandariarun&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
@@ -27,7 +24,7 @@ Hey Github Fam 👋
 
 - 🌱 I’m currently learning and growup with: **Python,Backend,Machine Learning and Artifical Intelligence**
 
-- 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer
+- 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer(Backend: Python,Django,PostgresSQL,Data Engineer)
   
 - 🌱 I did my internship in Zakipoint Health (https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company
 
