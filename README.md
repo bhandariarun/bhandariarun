@@ -223,6 +223,8 @@ Linux                   5 hrs                ███████████�
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </td>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/bhandariarun?ext=heatmap)
+
 <td align="center" width="25%">
 <span><b><center>Postgresql</center></b></span> <br/>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
