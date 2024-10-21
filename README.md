@@ -1,7 +1,7 @@
 Hey Github Fam 👋
 <p align="center">
 <a href="https://github.com/bhandariarun">
-    <img src="https://readme-typing-svg.demolab.com? font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+Arun+Bhandari;I'm+a+Computer+Engineering+Student;Enthusiastic in:+Python+%7C+Machine Learning+%7C+Data Science+%7C+Restful APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com? font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+Arun+Bhandari;I'm+a+Computer+Engineering+Student;Enthusiastic in:+Python+%7C+Machine Learning+%7C+Data Science" alt="Typing SVG" />
 </a>
 </p>
 <br>
@@ -24,7 +24,7 @@ Hey Github Fam 👋
 
 - 🌱 I’m currently learning and growup with: **Python,Backend,Machine Learning and Artifical Intelligence**
 
-- 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer(Backend: Python,Django,PostgresSQL,Data Engineer)
+- 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer(Backend: Python,Django,PostgresSQL,Data Engineer, Resfful APIs)
   
 - 🌱 I did my internship in Zakipoint Health (https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company
 
