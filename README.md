@@ -1,4 +1,4 @@
-Hey Github Fam!! 👋
+Hey Github Fam !! 👋
 <p align="center">
 <a href="https://github.com/bhandariarun">
     <img src="https://readme-typing-svg.demolab.com? font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Hi!+I'm+Arun+Bhandari;I'm+a+Computer+Engineering+Student;Enthusiastic in:+Python+%7C+Machine Learning+%7C+Data Science" alt="Typing SVG" />
