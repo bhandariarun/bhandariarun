@@ -26,7 +26,7 @@ Hey Github Fam !!! 👋
 
 - 🌱 I'm currently working in Innovative Techno Consultant Pvt. Ltd as a Software Engineer(Backend: Python,Django,PostgresSQL,Data Engineer, Restful APIs)
   
-- 🌱 I did my internship in Zakipoint Health (https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company
+- 🌱 I did my internship in [Zakipoint Health](https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company and aslo experience as a Junior Technical Software Support in [Hitech Software Solution](https://hitechnepal.com.np/)
 
 -  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning
 
