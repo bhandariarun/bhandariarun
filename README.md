@@ -38,7 +38,7 @@ Hey Github Fam !!! 👋
 
 - 📝 I regularly write articles on [https://arun0bhandari.wordpress.com/](https://arun0bhandari.wordpress.com/)
 
-- 📫 How to reach me **abbhan053@gmail.com**,**abbhan052@gmail.com**
+- 📫 How to reach at me **abbhan053@gmail.com**,**abbhan052@gmail.com**
 
 - 📄 Portfolio Know about me:  [https://arunbhandari.info.np/](https://arunbhandari.info.np/)
 
