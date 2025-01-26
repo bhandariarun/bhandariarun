@@ -36,7 +36,7 @@ Hey Github Fam !!! 👋
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhandariarun](https://github.com/bhandariarun)
 
-- 📝 I regularly write articles on [https://arun0bhandari.wordpress.com/](https://arun0bhandari.wordpress.com/)
+- 📝 Build the wordpress website for fun: [https://arun0bhandari.wordpress.com/](https://arun0bhandari.wordpress.com/)
 
 - 📫 How to reach at me **abbhan053@gmail.com**,**abbhan052@gmail.com**
 
