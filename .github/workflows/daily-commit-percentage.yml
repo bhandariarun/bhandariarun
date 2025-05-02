@@ -1,0 +1,39 @@
+name: Daily Commit Percentage
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Get commit percentage
+        id: get_commits
+        run: |
+          # Fetch the last 7 days of commits
+          commits=$(git rev-list --count --since="7 days ago" HEAD)
+          total_commits=$(git rev-list --count HEAD)
+          if [ "$total_commits" -eq 0 ]; then
+            echo "commit_percentage=0" >> $GITHUB_ENV
+          else
+            percentage=$(echo "scale=2; ($commits / $total_commits) * 100" | bc)
+            echo "commit_percentage=$percentage" >> $GITHUB_ENV
+          fi
+
+      - name: Update README
+        run: |
+          # Update the README with the commit percentage
+          sed -i "s/COMMIT_PERCENTAGE/${{ env.commit_percentage }}/" README.md
+          
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update daily commit percentage"
+          git push
