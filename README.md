@@ -60,7 +60,7 @@ Hey Github Fam !!! 👋
 
 
 # 🐱 My GitHub Data
-
+## Daily Commit Percentage: COMMIT_PERCENTAGE%
 ## 📊 Most of the time I've been spend on this 
 
 ```text
