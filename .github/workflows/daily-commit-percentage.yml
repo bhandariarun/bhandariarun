@@ -1,16 +1,20 @@
-name: Daily Commit Percentage
+name: Commit Percentage Update
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily at midnight
-  workflow_dispatch:
+    - cron: '* * * * *'  # Runs every minute (for testing purposes)
+  workflow_dispatch:     # Also allows manual trigger
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Explicitly grant write permission to repository contents
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0  # Fetch all history to calculate accurate commit stats
 
       - name: Get commit percentage
         id: get_commits
@@ -28,12 +32,17 @@ jobs:
       - name: Update README
         run: |
           # Update the README with the commit percentage
-          sed -i "s/COMMIT_PERCENTAGE/${{ env.commit_percentage }}/" README.md
+          sed -i "s/COMMIT_PERCENTAGE%/${{ env.commit_percentage }}%/" README.md
           
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add README.md
-          git commit -m "Update daily commit percentage"
-          git push
+          git commit -m "Update commit percentage" || echo "No changes to commit"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
