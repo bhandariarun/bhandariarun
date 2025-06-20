@@ -248,8 +248,6 @@ Linux                   5 hrs                ███████████�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhandariarun&show_icons=true&locale=en&layout=compact" alt="bhandariarun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhandariarun&show_icons=true&locale=en" alt="bhandariarun" /></p>
-
 ![Arun Bhandari's github stats](https://github-readme-stats.vercel.app/api?username=bhandariarun&show_icons=true&theme=gruvbox)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhandariarun&" alt="bhandariarun" /></p>
