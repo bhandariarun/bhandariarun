@@ -14,9 +14,9 @@ Hey Github Fam !!! 👋
 
 <p align="center">
     <a href="https://arunbhandari.info.np/"></a> </p>
-<p align="center"> 
+<p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bhandariarun/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=bhandariarun&style=flat-square&color=blue" alt="Visitor Count"/>
 </p>
 
 
