@@ -249,5 +249,3 @@ Linux                   5 hrs                ███████████�
 ![Arun Bhandari used Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhandariarun&layout=compact&theme=gruvbox)
 
 ![Arun Bhandari's github stats](https://github-readme-stats.vercel.app/api?username=bhandariarun&show_icons=true&theme=gruvbox)
-
-![GitHub Streak](https://github.com/bhandariarun/github-readme-streak-stats/?user=bhandariarun&theme=gruvbox)
