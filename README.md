@@ -23,16 +23,15 @@ Hey Github Fam !!! 👋
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🌱 I’m currently learning and growup with: **Python,Backend,Machine Learning and Artifical Intelligence**
+- 🌱 I'm currently server as a [PyTorch Ambassador](https://pytorch.org/programs/ambassadors/) for Nepal.
 
-- 🌱 I'm currently working in [Innovative Techno Consultant Pvt.Ltd](https://chart.nepsetrends.com) as a Software Engineer(Backend: Python,Django,PostgresSQL,Data Engineer,Restful APIs,Swagger, Postman)
-  
-- 🌱 I did my internship in [Zakipoint Health](https://www.zakipointhealth.com/) as a Data Engineer which is US-based Company and aslo experience as a Junior Technical Software Support in [Hitech Software Solution](https://hitechnepal.com.np/)
+- 🌱 Software Engineer with 3+ years of experience in Backend Development, Data Engineering, and Technical Support using Python, Django, PostgreSQL, RESTful APIs, Swagger, and Postman. Worked as a Software Engineer at [Sikinchha Academy](https://chart.nepsetrends.com)., Data Engineering Intern at [Zakipoint Health](https://www.zakipointhealth.com/), and Junior Technical Software Support at [Hitech Software Solution](https://hitechnepal.com.np/).
 
--  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning
+-  🔭 I did training at [Kathmandu Metropolitan City](https://kathmandu.gov.np/?) in Data Science and Machine Learning.
 
-- 🔭 I have been already worked at [Circuit Nepal](https://circuitnepal.com.np/)
+- 🔭 I have been already worked at [Circuit Nepal](https://circuitnepal.com.np/).
 
-- 👯 I built the website: [noonemovies](https://noonemovies.xyz/)
+- 👯 I built the website: [noonemovies](https://noonemovies.xyz/).
 
 - 👨‍💻 All of my projects are available at [https://github.com/bhandariarun](https://github.com/bhandariarun)
 
